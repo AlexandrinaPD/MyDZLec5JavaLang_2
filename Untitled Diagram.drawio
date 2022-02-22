@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T10:35:11.660Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" version="16.6.1" etag="eLGhJAtVV12aRoz6u3Vs" type="github"><diagram id="opmaJ4n418CEW-5FInmg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-22T09:12:35.616Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="1eKnJDha4_IbB23Ixifl" version="16.6.1" type="github">
+  <diagram id="opmaJ4n418CEW-5FInmg" name="Page-1">
+    <mxGraphModel dx="1382" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3UQWnrtK-fcK2aii7KGd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3UQWnrtK-fcK2aii7KGd-1" target="3UQWnrtK-fcK2aii7KGd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UQWnrtK-fcK2aii7KGd-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3UQWnrtK-fcK2aii7KGd-2" value="Инизиализируем объекты с разными базовыми данными.&lt;br&gt;Клиент по параметрам: Фио, возраст, сумма денег, наличие опекуна, желание брать кредит&lt;br&gt;&lt;br&gt;Машина по параметрам: модель и класс, цена.&lt;br&gt;&lt;br&gt;Добавляем переменные текущая(выбранная клиентом) машина, текущий клиент." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="130" width="210" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
